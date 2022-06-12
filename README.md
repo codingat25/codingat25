@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christian Jay Q. Reyes, living in the Philippines and currently working in Department of Education. 
-- 👀 I’m interested in computers and basketball.
+  👋 Hi, I’m Christian Jay Q. Reyes, living in the Philippines and currently working in Department of Education. 
+  👀 I’m interested in computers and basketball.
 
   🌱 After having enough knowledge about HTML, CSS, and Javascript, I decided to learn Vue JS and Tailwind CSS. 
   For now, I haven't started creating my personal projects but with the phase that I'm currently in, I might be able to  do simple 
