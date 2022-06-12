@@ -10,4 +10,6 @@
   💞️ I’m looking to collaborate on anything that involves Vue 3 and Tailwind CSS
   
   📫 You can email me at christianquimporeyes@gmail.com
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
