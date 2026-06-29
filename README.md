@@ -1,11 +1,4 @@
-  👋 Hi, I’m Christian Jay Q. Reyes, living in the Philippines and currently working in Department of Education. 
 
-  After having enough knowledge about HTML, CSS, and Javascript, I decided to learn Vue JS and Tailwind CSS. 
-  
-  You can email me at christianquimporeyes@gmail.com
-  
-  :)
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingat25&show_icons=true&theme=radical)
   
 
